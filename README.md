@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 <h3 align="center">Machine Learning and Data Analyst. Patterns are everywhere, BUT the more you try to use them to understand, the greater the chaos you create.</h3>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Deep Learning Porjects in Computer Vision and Natural Language Processing (NLP)<br>🌱 I’m currently learning Deep Learning in Game.<br>👯 I’m looking to collaborate on anything in Deep Learning, Quantum Computers and Electronics Engineering.<br>🤔 I’m looking for help with Low Resource Languages Model and Quantum Computers<br>💬 Ask me about anything to do with: Electronic Engineering, Machine/Deep Learning and Quantum Computers<br>📫 How to reach me: danielkiguru@gmail.com<br>⚡ Fun fact: Food is the best<br>
 
 <h3 align="left">Connect with me:</h3>
