@@ -1,8 +1,8 @@
-<h1 align="left">Hi there 👋</h1>
-<h3 align="center">Ruiru Daniel here, lets create chaos together!</h3>
-💫 About Me:
+<h1 align="left">Hi there 👋, lets create chaos together!</h1>
 
-🔭 I’m currently working on Deep Learning Porjects in Computer Vision and Natural Language Processing (NLP)<br>🌱 I’m currently learning Deep Learning in Game.<br>👯 I’m looking to collaborate on anything in Deep Learning, Quantum Computers and Electronics Engineering.<br>🤔 I’m looking for help with Low Resource Languages Model and Quantum Computers<br>💬 Ask me about anything to do with: Electronic Engineering, Machine/Deep Learning and Quantum Computers<br>📫 How to reach me: danielkiguru@gmail.com<br>⚡ Fun fact: Food is the best<br>
+<h2 align="left">💫 About Me:</h2>
+
+🔭Interests: Electronics/Computer Engineering, Deep/Machine Learning and Quantum Computers <br>🌱 Current Projects: Computer Vision and Natural Language Processing (NLP) models <br>👯 Lets work togther on Low Resource Languages and Quantum Computers <br>📫 How to reach me: danielkiguru@gmail.com<br>⚡ Fun fact: Food is the best<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
