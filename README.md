@@ -1,32 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Machine Learning and Data Analyst. Patterns are everywhere, BUT the more you try to use them to understand, the greater the chaos you create.</h3>
-
-<h1 align="center">Hi 👋, I'm RDK</h1>
-<h3 align="center">Machine Learning and Data Analyst. Patterns are everywhere, BUT the more you try to use them to understand, the greater the chaos you create.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdkdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="rdkdaniel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdkdaniel" alt="rdkdaniel" /></a> </p>
-
-- 🔭 I’m currently working on **Deep Learning Porjects in Computer Vision and Natural Language Processing (NLP).**
-
-- 🌱 I’m currently learning **Deep Learning in Game.**
-
-- 👯 I’m looking to collaborate on **on anything in Deep Learning, Quantum Computers and Electronics Engineering.**
-
-- 🤝 I’m looking for help with **Low Resource Languages/Model and Quantum Computer.s**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rdkdaniel?tab=repositories](https://github.com/rdkdaniel?tab=repositories)
-
-- 📝 I regularly write articles on [ftg-ml.ml](ftg-ml.ml)
-
-- 💬 Ask me about **anything to do with: Electronic Engineering, Machine/Deep Learning and Quantum Computers.**
-
-- 📫 How to reach me **danielkiguru@gmail.com**
-
-- 📄 Know about my experiences [https://sites.google.com/view/ruirudanielkiguru/home](https://sites.google.com/view/ruirudanielkiguru/home)
-
-- ⚡ Fun fact **Food is the best**
+# 💫 About Me:
+🔭 I’m currently working on Deep Learning Porjects in Computer Vision and Natural Language Processing (NLP)<br>🌱 I’m currently learning Deep Learning in Game.<br>👯 I’m looking to collaborate on anything in Deep Learning, Quantum Computers and Electronics Engineering.<br>🤔 I’m looking for help with Low Resource Languages Model and Quantum Computers<br>💬 Ask me about anything to do with: Electronic Engineering, Machine/Deep Learning and Quantum Computers<br>📫 How to reach me: danielkiguru@gmail.com<br>⚡ Fun fact: Food is the best<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
