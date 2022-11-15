@@ -1,6 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 <h3 align="center">Machine Learning and Data Analyst. Patterns are everywhere, BUT the more you try to use them to understand, the greater the chaos you create.</h3>
 💫 About Me:
+
 🔭 I’m currently working on Deep Learning Porjects in Computer Vision and Natural Language Processing (NLP)<br>🌱 I’m currently learning Deep Learning in Game.<br>👯 I’m looking to collaborate on anything in Deep Learning, Quantum Computers and Electronics Engineering.<br>🤔 I’m looking for help with Low Resource Languages Model and Quantum Computers<br>💬 Ask me about anything to do with: Electronic Engineering, Machine/Deep Learning and Quantum Computers<br>📫 How to reach me: danielkiguru@gmail.com<br>⚡ Fun fact: Food is the best<br>
 
 <h3 align="left">Connect with me:</h3>
@@ -17,5 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdkdaniel&show_icons=true&locale=en" alt="rdkdaniel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdkdaniel&" alt="rdkdaniel" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
