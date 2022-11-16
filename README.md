@@ -23,11 +23,21 @@
 
 <h2 align="left">Ongoing Research</h2>
 <h3 align="left">Quantum Computers and Machine Learning</h3> 
+Premise: The best ML model will exist with the use of quantum machines. Quantum machines can improve on: Sampling, optimization, Kernel evaluation and linear algebra through their tremendous processing power. Thus, accessing computationally complex feature spaces.
 <h3 align="left">Swahili Under NLP Lens</h3>
+Swahili is a low resource language. In this ongoing research, I try to collect data, develop a tokenizer from scratch and ultimatly design a powerful generalizable model.
+So far, I have - collected data from several websites and developed the tokenizer.
+Update - Model design and development in progress.
 <h3 align="left">AI and Gaming</h3>
+A newly enivionsed project where I am learning (and later design) models to play games.
 <h2 align="left">Projects</h2>
 <h3 align="left">Face Detection</h3>
+A simple project that detects people's faces, their age and gender.
 <h3 align="left">Computer Vision</h3>
+Using deep learning algorithms, I develop models to detect objects, diagnose disease and so much more.
 <h3 align="left">NLP Projects</h3>
+Simple projects and models for understanding natural languages using computational resources.
 <h3 align="left">Engineering - Arduino and Raspberry</h3>
+In this project, I primarily combine python with Arduino (and in future Raspberry Pi).
 <h3 align="left">Compiler Construction</h3>
+This project holds multiple scripts and ideas for ,my compiler design class.
