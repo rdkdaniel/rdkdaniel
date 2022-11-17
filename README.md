@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-💫 Interests: Electronics/Computer Engineering, Deep/Machine Learning and Quantum Computers <br>🌱 Current Projects: Computer Vision and Natural Language Processing (NLP) models <br>🔭 Lets work togther on Low Resource Languages and Quantum Computers <br>📫 How to reach me: danielkiguru@gmail.com<br>⚡ Fun fact: Food is the best<br>
+**💫 Interests:** *Electronics/Computer Engineering, Deep/Machine Learning and Quantum Computers* <br>**🌱 Current Projects:** *Computer Vision and Natural Language Processing (NLP) models* <br>**🔭 Lets work togther on:** *Low Resource Languages and Quantum Computers* <br>📫 **How to reach me:** *danielkiguru@gmail.com*<br>⚡ **Fun fact:** *Food is the best*<br>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h2 align="left">Ongoing Research</h2>
-<h3 align="left">Quantum Computers and Machine Learning</h3> 
+<h3 align="left">[Quantum Computers and Machine Learningh](https://github.com/rdkdaniel/Quantum-Computers-and-ML-DL)</h3> 
 Premise: The best ML model will exist with the use of quantum machines. Quantum machines can improve on: Sampling, optimization, Kernel evaluation and linear algebra through their tremendous processing power. Thus, accessing computationally complex feature spaces.
 <h3 align="left">Swahili Under NLP Lens</h3>
 Swahili is a low resource language. In this ongoing research, I try to collect data, develop a tokenizer from scratch and ultimatly design a powerful generalizable model.
