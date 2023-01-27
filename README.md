@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-**💫 Interests:** *Electronics/Computer Engineering, Deep/Machine Learning and Quantum Computers* <br>**🌱 Current Projects:** *Computer Vision and Natural Language Processing (NLP) models* <br>**🔭 Lets work togther on:** *Quantum Computers, Tree Search and Game AI* <br>📫 **How to reach me:** *danielkiguru@gmail.com*<br>⚡ **Fun fact:** *Food is the best*<br>
+**💫 Interests:** *Electronics/Computer Engineering, Deep/Machine Learning and Quantum Computers* <br>**🌱 Current Projects:** *Game AI, Tree Search & Something small on NLP* <br>**🔭 Lets work togther on:** *Quantum Computers, Tree Search and Game AI* <br>📫 **How to reach me:** *danielkiguru@gmail.com*<br>⚡ **Fun fact:** *Food is the best*<br>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
